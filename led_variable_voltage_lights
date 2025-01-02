@@ -1,3 +1,5 @@
+// simulator at https://wokwi.com/projects/418894611960677377 //
+
 int myPin=A2;
 int readVal;
 float v2;
